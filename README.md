@@ -35,16 +35,16 @@ La aplicación sigue una arquitectura limpia (Clean Architecture) dividiendo el 
 
 | Now Airing                       | Upcoming                         | Top Animes                     |
 |----------------------------------|----------------------------------|--------------------------------|
-| ![Now Airing](screenshots/now_airing.png) | ![Upcoming](screenshots/upcoming.png) | ![Top Animes](screenshots/top_animes.png) |
+| <img src="screenshots/now_airing.png" width="200" height="auto"/> | <img src="screenshots/upcoming.png" width="200" height="auto"/> | <img src="screenshots/top_animes.png" width="200" height="auto"/> |
 
 | Random Anime                     | Search Anime                    | Filter by Genre                |
 |----------------------------------|---------------------------------|--------------------------------|
-| ![Random Anime](screenshots/random_anime.png) | ![Search Anime](screenshots/search_anime.png) | ![Filter by Genre](screenshots/filter_by_genre.png) |
+| <img src="screenshots/random_anime.png" width="200" height="auto"/> | <img src="screenshots/search_anime.png" width="200" height="auto"/> | <img src="screenshots/filter_by_genre.png" width="200" height="auto"/> |
 
 | Anime Info                       | Character Info                  |
 |----------------------------------|---------------------------------|
-| ![Anime Info 1](screenshots/anime_info.png) ![Anime Info 2](screenshots/anime_info2.png) | ![Character Info](screenshots/character_info.png) |
+| <img src="screenshots/anime_info.png" width="200" style="display:inline;"/> <img src="screenshots/anime_info2.png" width="200" style="display:inline;"/> | <img src="screenshots/character_info.png" width="200" style="display:inline;"/> |
 
 | Navigation Drawer                |
 |----------------------------------|
-| ![Navigation Drawer](screenshots/navegation_drawer.png) |
+| <img src="screenshots/navegation_drawer.png" width="200" height="auto"/> |
