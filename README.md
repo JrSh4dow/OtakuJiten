@@ -43,8 +43,8 @@ La aplicación sigue una arquitectura limpia (Clean Architecture) dividiendo el 
 
 | Anime Info                       | Character Info                  |
 |----------------------------------|---------------------------------|
-| ![Anime Info 1](screenshots/anime_info1.png) ![Anime Info 2](screenshots/anime_info2.png) | ![Character Info](screenshots/character_info.png) |
+| ![Anime Info 1](screenshots/anime_info.png) ![Anime Info 2](screenshots/anime_info2.png) | ![Character Info](screenshots/character_info.png) |
 
 | Navigation Drawer                |
 |----------------------------------|
-| ![Navigation Drawer](screenshots/navigation_drawer.png) |
+| ![Navigation Drawer](screenshots/navegation_drawer.png) |
